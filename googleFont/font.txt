@@ -1,0 +1,23 @@
+    font-family: 'Lato', sans-serif;
+==========================
+    font-family: 'Poppins', sans-serif;
+======================
+    font-family: 'Roboto', sans-serif;
+
+    pexels.com/photo/a-beautiful-woman-in-polka-dots-dress-7861102/
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Playfair Display', serif;
+
+    font-family: "Quicksand", sans-serif;
+
+
+
+
+<input class="form-check-input" required="" type="radio" name="payment_option" id="exampleRadios3" checked="">
+<label class="form-check-label" for="exampleRadios3" data-bs-toggle="collapse" data-target="#bankTranfer" aria-controls="bankTranfer">I am a customer</label>
+                                                
+                                            
+                                            
+                                        

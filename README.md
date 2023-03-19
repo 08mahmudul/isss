@@ -1,3 +1,3 @@
 # isss
 
-click to visit link: http://hassi099.com/
+click to visit link: https://08mahmudul.github.io/isss/
